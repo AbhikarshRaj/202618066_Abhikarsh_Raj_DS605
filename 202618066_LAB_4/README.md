@@ -6,8 +6,8 @@
 
 **Dataset:** New York City Airbnb Open Data (`AB_NYC_2019.csv`)
 
-**Live Streamlit App:** Add deployed Streamlit URL here  
-**GitHub Repository:** Add GitHub repository URL here
+**Live Streamlit App:** https://202618066abhikarshrajds605-8p7n65e5vwwn9sdpopm7b2.streamlit.app/  
+**GitHub Repository:** https://github.com/AbhikarshRaj/202618066_Abhikarsh_Raj_DS605/tree/main/202618066_LAB_4
 
 ---
 <p align="center">
