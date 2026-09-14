@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# CatBoost temporary output
+catboost_info/
+
+# OS files
+.DS_Store
+Thumbs.db
