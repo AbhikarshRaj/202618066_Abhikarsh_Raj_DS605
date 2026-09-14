@@ -10,6 +10,35 @@
 **GitHub Repository:** Add GitHub repository URL here
 
 ---
+<p align="center">
+  <a href="https://202618066abhikarshrajds605-8p7n65e5vwwn9sdpopm7b2.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20STREAMLIT%20APP-success?style=for-the-badge" alt="Open Streamlit App">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Click the button above to try the deployed Airbnb Price Prediction application.</strong>
+</p>
+
+---
+
+# NYC Airbnb Price Prediction
+
+**Course:** DS605 – Fundamentals of Machine Learning  
+**Lab:** Lab Assignment 4 – End-to-End Machine Learning Project  
+**Student ID:** 202618066  
+
+**Dataset:** New York City Airbnb Open Data (`AB_NYC_2019.csv`)
+
+### Live Application
+
+**[Launch the NYC Airbnb Price Predictor](https://202618066abhikarshrajds605-8p7n65e5vwwn9sdpopm7b2.streamlit.app/)**
+
+---
+
+## Project Overview
+
+This project develops an end-to-end machine learning system for predicting the nightly price of Airbnb listings in New York City.
 
 # 1. Project Overview
 
