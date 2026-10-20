@@ -1,0 +1,6 @@
+Representation,Size (MiB)
+Original pixels (uint8),3.9306640625
+Original pixels (float64),31.4453125
+PCA coordinates only (float64),0.28076171875
+PCA basis + mean (float64),7.31103515625
+Complete PCA representation (float64),7.591796875

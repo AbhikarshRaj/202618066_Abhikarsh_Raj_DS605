@@ -1,0 +1,5 @@
+Method,Features,Correct,Test images,Test accuracy (%)
+Nearest face — raw pixels,10304,117,120,97.5
+Nearest face — PCA 90%,92,117,120,97.5
+Tuned KNN,25,116,120,96.66666666666667
+Tuned SVM,50,117,120,97.5
